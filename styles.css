@@ -5,8 +5,8 @@ body {
     background-color: #f4f4f9;
 }
 header {
-    background-color: #333;
-    color: #fff;
+    background-color: #c6c6ff;
+    color: #ffffff;
     padding: 10px 0;
     text-align: center;
 }
@@ -19,11 +19,11 @@ nav ul li {
     margin: 0 10px;
 }
 nav ul li a {
-    color: #333;
+    color: #ceacff;
     text-decoration: none;
 }
 footer {
-    background-color: #333;
+    background-color: #c6c6ff;
     color: #fff;
     text-align: center;
     padding: 10px 0;
